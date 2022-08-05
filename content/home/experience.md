@@ -26,9 +26,9 @@ experience:
     company: RoboMaster University Series
     company_url: ''
     company_logo: ''
-    location: California
-    date_start: '2021-09'
-    date_end: '2022-07'
+    location: Harbin, China
+    date_start: '2021-09-01'
+    date_end: '2022-07-01'
     description: |2-
         RoboMaster University Championship required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.
 
@@ -37,8 +37,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Harbin, China
-    date_start: '2020-11'
-    date_end: '2021-08'
+    date_start: '2020-11-01'
+    date_end: '2021-08-01'
     description: |2-
         In the 16th edition of the competition, a total of 2,916 teams from 482 universities across China participated.
         Accomplish­ments: 
