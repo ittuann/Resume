@@ -22,29 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Embedded Developer
+    company: RoboMaster University Series
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-09'
+    date_end: '2022-07'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        RoboMaster University Championship required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Embedded Developer
+    company: The 16th National University Students Intelligent Car Race
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Harbin, China
+    date_start: '2020-11'
+    date_end: '2021-08'
+    description: |2-
+        In the 16th edition of the competition, a total of 2,916 teams from 482 universities across China participated.
+        Accomplish­ments: 
+
+        * National first prize (ranked 14th in the whole group)
+        * National first prize (ranked 23rd in the whole group)
+
+
 
 design:
-  columns: '2'
+  columns: '1'
 ---
