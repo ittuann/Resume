@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Embedded & Control
+  - name: Embedded & Robotics
     icon_pack: fas
     icon: microchip
     description: STM32, FreeRTOS, PID
-  - name: Mechanic
+  - name: Mechanical Engineering
     icon_pack: fas
     icon: wrench
-    description: Solidwork, 3D Print
+    description: Solidwork, CAD, 3D Print
   - name: Tools
     icon_pack: fas
     icon: toolbox
-    description: C, C++, Python, Git, LaTeX
+    description: C, C++, Python, Matlab, Git, LaTeX
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

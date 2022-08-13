@@ -19,15 +19,16 @@ bio: My research interests include distributed Embedded Development, Optimal Con
 # Interests to show in About widget
 interests:
   - Embedded Development
-  - Optimal Control
-  - Mechanical Design
+  - Robotics - Optimal Control, Perception, Planning
+  - Mechanical Engineering
+  - Computer Science
 
 # Education to show in About widget
 education:
   courses:
     - course: Mechanical Design manufacture and Automation
       institution: Northeast Forestry University
-      year: 2020
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,13 +37,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    # link: '/#contact'
+    link: mailto:lubaiqi@outlook.com
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
+  #   icon_pack: fas 
   #   link: https://scholar.google.com/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ittuann
+  - icon: blogger
+    icon_pack: fab
+    link: https://ittuann.github.io
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/

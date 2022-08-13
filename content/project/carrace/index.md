@@ -10,8 +10,8 @@ show_date: false
 external_link: ''
 
 image:
-  filename: featured.jpg
-  focal_point: Smart
+  filename: featured.png
+  focal_point: Center
 
 links:
   - icon_pack: fab

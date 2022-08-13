@@ -10,7 +10,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Accomplishments
+  - name: Achievements
     url: '#accomplishments'
     weight: 30
   - name: Publications
