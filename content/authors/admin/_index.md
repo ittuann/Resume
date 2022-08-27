@@ -14,7 +14,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Embedded Development, Optimal Control and Mechanical Design.
+bio: My research interests include distributed Robotics, Embedded Development, Mechanical Engineering and Computer Science.
 
 # Interests to show in About widget
 interests:
@@ -60,7 +60,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ittuann@outlook.com'
+email: 'lubaiqi@outlook.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
